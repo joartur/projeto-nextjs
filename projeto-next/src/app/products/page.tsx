@@ -1,5 +1,10 @@
 export default function Products() {
     return (
-        <h1>Página de Produtos</h1>
+        <div>
+            <p>Produto 1</p>
+            <p>Produto 2</p>
+            <p>Produto 3</p>
+        </div>
+
     )
 }
